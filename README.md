@@ -8,6 +8,7 @@ A detailed description of the can be found in the paper Fauzy and Wu, RESULTS EN
 # How to use
 
 1. add the image
+2. run the python code.
 
 # Useful links
 [Rflow lab NCKU web](https://rflowlab.tw/)
